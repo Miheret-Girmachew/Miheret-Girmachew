@@ -35,7 +35,7 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
 ## 📫 Get in Touch
 - 📧 Email: [miheretgirmachew@gmail.com](mailto:miheretgirmachew@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/miheretgirmachew-734848297)
-- 💻 [GitHub](https://github.com/miheretgirmachew)
+- 💻 [GitHub](https://github.com/Miheret-Girmachew)
 - 📱 [Telegram](https://t.me/m2127g)
 
 Feel free to check out my repositories and connect with me!
