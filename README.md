@@ -5,6 +5,11 @@
 👩‍💻 **Software Engineer | Full Stack Developer**  
 Passionate about using technology to solve real-world problems.
 
+# Portfolio
+
+Check out my [Portfolio](https://miheretttportfolio.netlify.app/) to see my projects and work.
+
+
 ## 🌱 About Me
 I am currently a Software Engineering student at Addis Ababa Science and Technology University. I have a keen interest in software development, cybersecurity, and competitive programming. I am passionate about working on real-world projects to sharpen my coding and problem-solving skills.
 
