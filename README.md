@@ -5,11 +5,6 @@
 👩‍💻 **Software Engineer | Full Stack Developer**  
 Passionate about using technology to solve real-world problems.
 
-# Portfolio
-
-Check out my [Portfolio](https://miheretttportfolio.netlify.app/) to see my projects and work.
-
-
 ## 🌱 About Me
 I am currently a Software Engineering student at Addis Ababa Science and Technology University. I have a keen interest in software development, cybersecurity, and competitive programming. I am passionate about working on real-world projects to sharpen my coding and problem-solving skills.
 
@@ -37,6 +32,18 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
 </p>
 
+
+
+![Miheret's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miheret-Girmachew&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miheret-Girmachew&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Miheret-Girmachew&theme=radical)
+
+![Miheret's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miheret-Girmachew&theme=react-dark)
+
+
+
 ## 📫 Get in Touch
 - 📧 Email: [miheretgirmachew@gmail.com](mailto:miheretgirmachew@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/miheretgirmachew-734848297)
@@ -44,3 +51,5 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
 - 📱 [Telegram](https://t.me/m2127g)
 
 Feel free to check out my repositories and connect with me!
+![Profile Views](https://komarev.com/ghpvc/?username=Miheret-Girmachew&color=blue)
+
