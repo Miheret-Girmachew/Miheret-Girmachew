@@ -22,8 +22,6 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="40" height="40"/>
-</p>
-<p align="left">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
