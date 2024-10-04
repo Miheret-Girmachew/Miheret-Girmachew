@@ -40,8 +40,6 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Miheret-Girmachew&theme=radical)
 
-![Miheret's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miheret-Girmachew&theme=react-dark)
-
 
 
 ## 📫 Get in Touch
@@ -51,5 +49,6 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
 - 📱 [Telegram](https://t.me/m2127g)
 
 Feel free to check out my repositories and connect with me!
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Miheret-Girmachew&color=blue)
 
