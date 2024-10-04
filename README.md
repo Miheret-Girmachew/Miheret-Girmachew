@@ -1,4 +1,4 @@
-# Hi there, I'm Miheret Girmachew 👋
+# Hello, Miheret here 👋
 
 ![Description](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp3cHlha25hMXRwd3h3cHBjaGoyMWExa3owbGdjNGQzZGRqOXphZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
