@@ -34,15 +34,14 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miheret-Girmachew&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Miheret-Girmachew&theme=radical)
 
 
+"## 📫 Get in Touch
+- 📧 Email: [miheretgirmachew@gmail.com](mailto:miheretgirmachew@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/miheretgirmachew-734848297)
+- 💻 [GitHub](https://github.com/Miheret-Girmachew)
+- 📱 [Telegram](https://t.me/m2127g)
 
-## 📫 Get in Touch
-- 📧 **Email**: [miheretgirmachew@gmail.com](mailto:miheretgirmachew@gmail.com)
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/miheretgirmachew-734848297) **LinkedIn**
-- [![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com/Miheret-Girmachew) **GitHub**
-- [![Telegram](https://img.icons8.com/color/48/000000/telegram.png)](https://t.me/m2127g) **Telegram**
 
 Feel free to check out my repositories and connect with me!
 
