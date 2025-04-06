@@ -30,8 +30,6 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
 
 
 
-![Miheret's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miheret-Girmachew&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miheret-Girmachew&layout=compact&theme=radical)
 
 
