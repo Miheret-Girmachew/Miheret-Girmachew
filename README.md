@@ -37,7 +37,7 @@ Passionate about using technology to solve real-world problems.
 "## 📫 Get in Touch
 - 📧 Email: [miheretgirmachew@gmail.com](mailto:miheretgirmachew@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/miheretgirmachew-734848297)
-- 📱 [Telegram](https://t.me/m2127g)
+- 📱 [Telegram](https://t.me/MiheretGirma)
 
 
 Feel free to check out my repositories and connect with me!
