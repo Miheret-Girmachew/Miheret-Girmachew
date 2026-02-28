@@ -5,9 +5,6 @@
 👩‍💻 **Software Engineer | Full Stack Developer**  
 Passionate about using technology to solve real-world problems.
 
-## 🌱 About Me
-I am currently a Software Engineering student at Addis Ababa Science and Technology University. I have a keen interest in software development, cybersecurity, and competitive programming. I am passionate about working on real-world projects to sharpen my coding and problem-solving skills.
-
 ## 🚀 Skills
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
@@ -26,6 +23,9 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/golang.png" alt="Go" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
 
@@ -37,7 +37,6 @@ I am currently a Software Engineering student at Addis Ababa Science and Technol
 "## 📫 Get in Touch
 - 📧 Email: [miheretgirmachew@gmail.com](mailto:miheretgirmachew@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/miheretgirmachew-734848297)
-- 💻 [GitHub](https://github.com/Miheret-Girmachew)
 - 📱 [Telegram](https://t.me/m2127g)
 
 
