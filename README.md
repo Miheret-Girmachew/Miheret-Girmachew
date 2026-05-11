@@ -23,15 +23,6 @@ I enjoy building scalable, real-world systems that actually solve problems, espe
 I like turning ideas into working products, automating boring processes, and making systems behave (most of the time).
 
 
-## 🧠 What I Enjoy Working On
-
-- 🏗️ Designing scalable backend systems  
-- 🌐 Building full-stack web applications  
-- ⚙️ Automating workflows and business processes  
-- 🤖 Applying AI/ML where it actually adds value  
-- 📦 Making systems reliable, fast, and slightly less chaotic  
-
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
@@ -46,11 +37,17 @@ Node.js • Express • NestJS • Spring Boot • FastAPI • Gin
 **Databases:**  
 MongoDB • PostgreSQL • MySQL • Firebase • Supabase  
 
-**Other Things I Use:**  
+**Other Tools:**  
 Docker • REST APIs • Microservices • AI/ML tools • Git  
 
 
-## 🧩 Projects (High-Level)
+## 🧩 Projects + 🏆 Leadership (Side by Side)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧩 Projects (High-Level)
 
 - 🏗️ Large-scale distributed systems  
 - 📚 Interactive learning platforms  
@@ -59,13 +56,19 @@ Docker • REST APIs • Microservices • AI/ML tools • Git
 - 🧾 Automation and workflow systems  
 - 📊 Data-driven dashboards and tools  
 
+    </td>
+    <td width="50%" valign="top">
 
-## 🏆 Leadership & Community
+### 🏆 Leadership & Community
 
 - 👩‍🏫 Tech community contributor & mentor  
 - 🎯 Organizing and leading learning initiatives  
 - 🤝 Supporting student developer communities  
 - 💡 Helping others grow in software engineering  
+
+    </td>
+  </tr>
+</table>
 
 
 ## 📫 Let’s Connect
