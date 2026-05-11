@@ -68,13 +68,6 @@ Docker • REST APIs • Microservices • AI/ML tools • Git
 - 💡 Helping others grow in software engineering  
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miheret-Girmachew&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miheret-Girmachew&layout=compact&theme=radical)
-
-
 ## 📫 Let’s Connect
 
 - 📧 Email: miheretgirmachew@gmail.com  
