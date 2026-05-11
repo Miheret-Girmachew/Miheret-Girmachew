@@ -1,46 +1,88 @@
-# Hello, Miheret here 👋
 
-![Description](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp3cHlha25hMXRwd3h3cHBjaGoyMWExa3owbGdjNGQzZGRqOXphZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-👩‍💻 **Software Engineer | Full Stack Developer**  
-Passionate about using technology to solve real-world problems.
-
-## 🚀 Skills
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/golang.png" alt="Go" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1mNXduZWMwb2g0Z2g3MzNlc2UyYThzdnBzY3Z6a2Y0OG1hMm1mdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DHYNyjAqrqkzm/giphy.gif" width="300"/>
 </p>
 
+# Hey there, I'm Miheret ✨
 
+### *I break things (in code) so real systems don’t break in production 😁*
+
+![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp3cHlha25hMXRwd3h3cHBjaGoyMWExa3owbGdjNGQzZGRqOXphZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Miheret-Girmachew&color=blue)
+
+
+## 🚀 About Me
+
+Software Engineer | Full-Stack Developer | System Builder
+
+I enjoy building scalable, real-world systems that actually solve problems, especially the kind that involve lots of users, complex workflows, and the occasional “why is this not working in production?” moment.
+
+I like turning ideas into working products, automating boring processes, and making systems behave (most of the time).
+
+
+## 🧠 What I Enjoy Working On
+
+- 🏗️ Designing scalable backend systems  
+- 🌐 Building full-stack web applications  
+- ⚙️ Automating workflows and business processes  
+- 🤖 Applying AI/ML where it actually adds value  
+- 📦 Making systems reliable, fast, and slightly less chaotic  
+
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+JavaScript • TypeScript • Python • Java • Go • C++ • Dart  
+
+**Frontend:**  
+React • Next.js • Svelte • Flutter • Tailwind CSS  
+
+**Backend:**  
+Node.js • Express • NestJS • Spring Boot • FastAPI • Gin  
+
+**Databases:**  
+MongoDB • PostgreSQL • MySQL • Firebase • Supabase  
+
+**Other Things I Use:**  
+Docker • REST APIs • Microservices • AI/ML tools • Git  
+
+
+## 🧩 Projects (High-Level)
+
+- 🏗️ Large-scale distributed systems  
+- 📚 Interactive learning platforms  
+- 🤖 AI-powered applications  
+- 📱 Mobile productivity apps  
+- 🧾 Automation and workflow systems  
+- 📊 Data-driven dashboards and tools  
+
+
+## 🏆 Leadership & Community
+
+- 👩‍🏫 Tech community contributor & mentor  
+- 🎯 Organizing and leading learning initiatives  
+- 🤝 Supporting student developer communities  
+- 💡 Helping others grow in software engineering  
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miheret-Girmachew&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miheret-Girmachew&layout=compact&theme=radical)
 
 
+## 📫 Let’s Connect
 
-"## 📫 Get in Touch
-- 📧 Email: [miheretgirmachew@gmail.com](mailto:miheretgirmachew@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/miheretgirmachew-734848297)
-- 📱 [Telegram](https://t.me/MiheretGirma)
+- 📧 Email: miheretgirmachew@gmail.com  
+- 🔗 LinkedIn: [Let’s connect and talk tech](https://www.linkedin.com/in/miheret-girmachew-734848297)  
+- 💬 Telegram: [@MiheretGirma](https://t.me/MiheretGirma)
 
 
-Feel free to check out my repositories and connect with me!
+## ⚡ Fun Fact
 
-![Profile Views](https://komarev.com/ghpvc/?username=Miheret-Girmachew&color=blue)
-
+I trust logs more than humans…  
+but sometimes neither of them tell the truth 😄 just kidding
