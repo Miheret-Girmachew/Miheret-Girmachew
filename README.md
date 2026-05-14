@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1mNXduZWMwb2g0Z2g3MzNlc2UyYThzdnBzY3Z6a2Y0OG1hMm1mdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DHYNyjAqrqkzm/giphy.gif" width="300"/>
-</p>
+</p> -->
 
 # Hey there, I'm Miheret ✨
 
