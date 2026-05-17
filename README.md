@@ -41,36 +41,6 @@ MongoDB • PostgreSQL • MySQL • Firebase • Supabase
 Docker • REST APIs • Microservices • AI/ML tools • Git  
 
 
-## 🧩 Projects + 🏆 Leadership (Side by Side)
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧩 Projects (High-Level)
-
-- 🏗️ Large-scale distributed systems  
-- 📚 Interactive learning platforms  
-- 🤖 AI-powered applications  
-- 📱 Mobile productivity apps  
-- 🧾 Automation and workflow systems  
-- 📊 Data-driven dashboards and tools  
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🏆 Leadership & Community
-
-- 👩‍🏫 Tech community contributor & mentor  
-- 🎯 Organizing and leading learning initiatives  
-- 🤝 Supporting student developer communities  
-- 💡 Helping others grow in software engineering  
-
-    </td>
-  </tr>
-</table>
-
-
 ## 📫 Let’s Connect
 
 - 📧 Email: miheretgirmachew@gmail.com  
